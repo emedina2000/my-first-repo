@@ -1,3 +1,23 @@
+body {
+margin:0;
+padding: 0;
+background: black;
+font-size: medium;
+font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+    margin-top: 70px;
+}
+
+
+
+
+
+
+
 ul li:nth-child(4) {
     animation-delay: -0.8s;
     background: aqua;
